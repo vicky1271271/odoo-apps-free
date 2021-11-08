@@ -3,9 +3,9 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "SQL Request Abstract",
-    "version": "15.0.1.1.0",
-    "author": "GRAP,Akretion, Pushpanathan (Vicky), Odoo Community Association (OCA)",
+    "name": "SQL Request",
+    "version": "15.0.1.0.0",
+    "author": "Pushpanathan (Vicky),GRAP,Akretion, Odoo Community Association (OCA)",
     "maintainers": ["legalsylvain"],
     "website": "https://github.com/OCA/server-tools",
     "license": "AGPL-3",
